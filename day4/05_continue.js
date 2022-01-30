@@ -1,13 +1,13 @@
-// program to print the value of i
-for (let i = 1; i <= 5; i++) {
+// // program to print the value of i
+// for (let i = 1; i <= 5; i++) {
 
-    // condition to continue    
-    if (i == 3) {
-        continue;
-    }
+//     // condition to continue    
+//     if (i == 3) {
+//         continue;
+//     }
 
-    console.log(i);
-}
+//     console.log(i);
+// }
 
 
 // nested for loops

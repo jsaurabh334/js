@@ -1,6 +1,7 @@
 // check if the number is positive or negative/zero
 
-const number = prompt("Enter a number: ");
+// const number = prompt("Enter a number: ");
+const number = -89;
 
 // check if number is greater than 0
 if (number > 0) {

@@ -8,7 +8,7 @@ There are two types of type conversion in JavaScript.
 // Implicit conversion numeric string used with + gives string type
 let result;
 
-result = '3' + 2; 
+result = '3' + 2;  //operator (+) operand("3",2)
 console.log(result) // "32"
 
 result = '3' + true; 
@@ -21,6 +21,7 @@ result = '3' + null;
 console.log(result); // "3null"
 
 // explicit conversion
+
 
 
 // string to number

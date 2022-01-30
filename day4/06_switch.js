@@ -1,5 +1,5 @@
 // program using switch statement
-let a = 2;
+let a = 5;
 
 switch (a) {
 
@@ -8,6 +8,9 @@ switch (a) {
         break;
     case 2:
         a = 'two';
+        break;
+    case 3:
+        a = 'three';
         break;
     default:
         a = 'not found';

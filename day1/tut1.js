@@ -14,6 +14,16 @@ typeof
 /* var let const */
 /* alert,prompt,document.write */
 /* getelementbyid */
-document.getElementsByClassName("root")[0].innerHTML="hii this is hold";
-document.getElementsByClassName("root")[1].innerHTML="hii this is holding 2";
-document.getElementsByTagName("div")[1].innerHTML="this both are divs"
+// document.getElementsByClassName("root")[0].innerHTML="hii this is hold";
+// document.getElementsByClassName("root")[1].innerHTML="hii this is holding 2";
+// document.getElementsByTagName("div")[1].innerHTML="this both are divs"
+
+
+
+var a = 10;
+var a=25;
+let b= 10;
+
+
+
+console.log(v);

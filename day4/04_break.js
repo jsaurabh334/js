@@ -4,10 +4,15 @@
 //     if (i == 3) {
 //         break;
 //     }
+
 //     console.log(i);
 // }
 
 
+
+// program to find the sum of positive numbers
+// if the user enters a negative numbers, break ends the loop
+// the negative number entered is not added to sum
 
 // program to find the sum of positive numbers
 // if the user enters a negative numbers, break ends the loop
@@ -21,7 +26,7 @@ while(true) {
     number = parseInt(prompt('Enter a number: '));
 
     // break condition
-    if(number < 0) {
+    if(number <= 0) {
         break;
     }
 
