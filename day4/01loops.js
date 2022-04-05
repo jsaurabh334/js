@@ -5,14 +5,14 @@
 // do while loop
 
 
-// program to display text 5 times
-const n = 5;
+// // program to display text 5 times
+// const n = 5;
 
-// looping from i = 1 to 5
+// // looping from i = 1 to 5
 // for (let i = 1; i <= n; i++) {
     
 
-//     console.log(` this text is repeated ${n} times by saurabh`);
+//     console.log(` this text is repeated ${i} times by saurabh`);
 // }
 
 
@@ -27,7 +27,7 @@ const n = 5;
 //     console.log(i*p);     // printing the value of i
 // }
 
-const p = "sharad";
+const p = "saurabh";
 
 // looping from i = 1 to 5
 // in each iteration, i is increased by 1

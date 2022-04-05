@@ -7,6 +7,8 @@ const student = {
     firstName: 'Monica'
 }
 
+
+
 // getting property
 Object.defineProperty(student, "getName", {
     get : function () {

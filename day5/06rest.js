@@ -3,8 +3,7 @@
 // }
 // myname("saurabh", "john", "vihul", "mee");
 
-const myfunct = function (a,b,...args){
+const myfunct = function (a, b, ...args) {
   console.log(` ${a} ${b} ${args[1]}`);
-
-}
-myfunct(2,4)
+};
+myfunct(2, 4, 5, 6, 7, 8);

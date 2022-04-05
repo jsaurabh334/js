@@ -18,12 +18,3 @@ typeof
 // document.getElementsByClassName("root")[1].innerHTML="hii this is holding 2";
 // document.getElementsByTagName("div")[1].innerHTML="this both are divs"
 
-
-
-var a = 10;
-var a=25;
-let b= 10;
-
-
-
-console.log(v);

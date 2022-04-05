@@ -1,7 +1,7 @@
 const student = {
 
     // data property
-    firstName: 'Monica',
+    firstName : 'Monica',
     
     // accessor property(getter)
     get getName() {

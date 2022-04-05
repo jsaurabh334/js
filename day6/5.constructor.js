@@ -6,6 +6,8 @@
 
 // // create an object
 // const person1 = new Person();
+// console.log(person1.name)
+
 
 
 
@@ -17,7 +19,7 @@
 function Person (person_name, person_age, person_gender) {
 
     // assigning  parameter values to the calling object
-     this.name = person_name,
+    this.name = person_name,
      this.age = person_age,
      this.gender = person_gender,
  
@@ -33,5 +35,5 @@ function Person (person_name, person_age, person_gender) {
  
  // accessing properties
 //  console.log(person1); // "John"
- console.log(person2.greet()); // "Sam"
+ console.log(person2.name); // "Sam"
  
